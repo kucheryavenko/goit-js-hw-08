@@ -26,4 +26,5 @@ function createImageCardsMarkup(galleryItems) {
 }; 
 
 // Запускаем библиотеку SimpleLightbox и выводим 'alt' c задержкой 250 ms
-var lightbox = new SimpleLightbox('.gallery a', { captionDelay: 250, captionsData: 'alt'});
+var lightbox = new SimpleLightbox('.gallery a', { captionDelay: 250, captionsData: 'alt' });
+//test
